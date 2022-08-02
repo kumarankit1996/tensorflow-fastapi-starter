@@ -8,8 +8,11 @@ This web app is created with [FastAPI](https://fastapi.tiangolo.com/) which is h
 
 ## How to run?
 
+### Step 1:
+`pip install -r requirements.txt`
+### Step 2:
 `uvicorn application.server.main:app --reload`
 
 ## Ref:
 
-'https://github.com/aniketmaurya/tensorflow-fastapi-starter-pack'
+`https://github.com/aniketmaurya/tensorflow-fastapi-starter-pack`
