@@ -1,20 +1,15 @@
-# tensorflow-web-app-starter-pack
+# tensorflow-web-app-starter
 
 This web app is created with [FastAPI](https://fastapi.tiangolo.com/) which is high performance asynchronous library for fast development of APIs.
 
-It automatically generates SwaggerUI for APIs.
 
-## Upload any photo andd try it out at https://tf-webapp.herokuapp.com/
+
+
 
 ## How to run?
 
-`uvicorn application.server.main:app`
+`uvicorn application.server.main:app --reload`
 
-## Screenshots
+## Ref:
 
-### SwaggerUI
-![SwaggerUI](images/main.png)
-
-
-### Response
-![Response](images/response.png)
+'https://github.com/aniketmaurya/tensorflow-fastapi-starter-pack'
